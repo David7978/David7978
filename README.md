@@ -1,4 +1,4 @@
 - 👋 Hola, soy David Agüero.
 - 🌱 Actualmente estoy cursando ingenieria en sistemas y me gustaría colavorar con alguna empresa como desarrollador web.
 - 👀 Me desarrollo bien con HTML, CSS, javaScript y SQL. También manejo bien Python pero no es mi fuerte.
-- 📫 Pueden contactarme por mail: aguerodavid848@gmail.com ó celular: +54 3413755942.
+- 📫 Pueden contactarme por mail: aguerodavid848@gmail.com ó al celular: +54 3413755942.
