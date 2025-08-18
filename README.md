@@ -4,6 +4,6 @@
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250">
 
-- 🌱 Actualmente estoy cursando ingeniería en sistemas, tengo experiencia práctica y me gustaría colaborar con alguna empresa para adquirir experiencia profesional.
-- 👀 Me desarrollo bien con HTML, CSS, JavaScript, Node.js y SQL. También manejo bien Python pero no es mi fuerte.
-- 📫 Pueden contactarme por mail: aguerodavid848@gmail.com ó al celular: +54 3413755942.
+- 🌱 I am currently studying Systems Engineering. I have practical experience and am looking to collaborate with a company to gain professional experience.
+- 👀 I'm good at HTML, CSS, JavaScript, Node.js, and SQL. I'm also fluent in Python, though it's not my strong suit.
+- 📫 You can contact me via email: aguerodavid848@gmail.com or by phone: +54 3413755942.
