@@ -9,5 +9,5 @@
 - 🌱 I’m currently learning ...
   - Angular
   - TypeScript
-- 👀 I'm good at HTML, CSS, JavaScript, Node.js, and SQL. I'm also proficient in Python, though it's not my strong suit."
+- 👀 I'm good at HTML, CSS, JavaScript, Node.js, Pyghon and SQL."
 - 📫 You can contact me via email: aguerodavid848@gmail.com or by phone: +54 3413755942.
