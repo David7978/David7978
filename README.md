@@ -34,7 +34,7 @@ Vengo del mundo del hardware y la electrónica, pero encontré mi verdadera voca
 ## 📫 Contacto
 * 📧 **Email:** aguerodavid848@gmail.com
 * 📱 **LinkedIn:** [Tu link aquí si tienes]
-* 📍 Villa Gobernador Gálvez, Santa Fe, Argentina.
+* 📍 Rosario, Santa Fe, Argentina.
 
 ---
 
