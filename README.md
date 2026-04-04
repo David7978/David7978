@@ -41,4 +41,3 @@ Vengo del mundo del hardware y la electrónica, pero encontré mi verdadera voca
 ### ⚡ Datos curiosos
 - 🏆 Ganador provincial y 3er puesto nacional en competencias de Siemens.
 - 🏎️ Fanático del automovilismo.
-- 🃏 Jugador estratégico de Poker en mis ratos libres.
