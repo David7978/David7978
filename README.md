@@ -33,11 +33,10 @@ Vengo del mundo del hardware y la electrónica, pero encontré mi verdadera voca
 
 ## 📫 Contacto
 * 📧 **Email:** aguerodavid848@gmail.com
-* 📱 **Teléfolo:** [Tu link aquí si tienes]
+* 📱 **Teléfolo:** +54 3413755942
 * 📍 Rosario, Santa Fe, Argentina.
 
 ---
 
-### ⚡ Datos curiosos
-- 🏆 Ganador provincial y 3er puesto nacional en competencias de Siemens.
-- 🏎️ Fanático del automovilismo.
+### 🏆Logro
+-   Ganador provincial y 3er puesto nacional en competencias de Siemens.
