@@ -15,10 +15,10 @@ Vengo del mundo del hardware y la electrónica, pero encontré mi verdadera voca
 ## 🛠️ Mi Stack Tecnológico
 
 **Lenguajes y Backend:**
-* 🐍 **Python** | 🟨 **JavaScript** | 🟢 **Node.js**
+* 🐍 **Python** | 🟨 **JavaScript** | 🟢 **Node.js** | 🛢️ **SQL**
 
 **Frontend & Bases de Datos:**
-* 🌐 **HTML5** | 🎨 **CSS3** | 🛢️ **SQL**
+* 🌐 **HTML5** | 🎨 **CSS3** 
 
 **Herramientas:**
 * 🚀 **Git & GitHub** | 🖌️ **Figma**
